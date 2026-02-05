@@ -50,7 +50,7 @@
     "flowbite-svelte": "^0.46.16",
     "flowbite-svelte-icons": "^1.6.1",
     "jsdom": "^24.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "msw": "^2.4.5",
     "otpauth": "^9.3.2",
     "pdf-lib": "^1.17.1",
