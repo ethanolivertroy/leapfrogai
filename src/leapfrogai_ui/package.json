@@ -86,7 +86,7 @@
     "isomorphic-dompurify": "^2.15.0",
     "libreoffice-convert": "^1.6.0",
     "lit": "^3.2.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "mupdf": "^0.3.0",
     "openai": "^4.58.2",
     "sveltekit-superforms": "^2.29.1",
