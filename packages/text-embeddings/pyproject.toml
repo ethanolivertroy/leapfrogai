@@ -12,7 +12,7 @@ dependencies = [
     "numpy ==1.26.4",
     "tqdm ==4.66.5",
     "sentence-transformers == 2.2.2",
-    "transformers == 4.53.0",
+    "transformers == 5.0.0rc3",
     "leapfrogai-sdk",
 ]
 requires-python = "~=3.11"
