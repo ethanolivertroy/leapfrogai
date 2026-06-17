@@ -8,7 +8,7 @@ version = "0.14.0"
 
 dependencies = [
     "pydantic == 2.8.2",
-    "vllm == 0.19.0",
+    "vllm == 0.22.0",
     "python-dotenv == 1.2.2",
     "aiostream ==0.6.2",
     "leapfrogai-sdk",
