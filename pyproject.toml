@@ -31,7 +31,7 @@ dev = [
     "fastapi == 0.109.1",
 ]
 
-dev-whisper = ["ctranslate2 ==4.4.0", "transformers[torch] == 5.0.0rc3"]
+dev-whisper = ["ctranslate2 ==4.4.0", "transformers[torch] == 5.3.0"]
 
 dev-vllm = ["confz == 2.0.1", "huggingface_hub ==0.25.1"]
 
